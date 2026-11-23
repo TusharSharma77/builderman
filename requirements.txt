@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+google-genai
+langgraph
+langchain-google-genai
+redis
+psycopg[binary,pool]
+pgvector
+tree-sitter
+tree-sitter-language-pack
+docker
+GitPython
+slowapi
+pytest
+httpx
