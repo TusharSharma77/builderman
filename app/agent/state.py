@@ -8,3 +8,4 @@ class AgentState(TypedDict):
     task_prompt: str
     repo_map: str
     plan: TaskPlan | None
+    implementation: str | None
